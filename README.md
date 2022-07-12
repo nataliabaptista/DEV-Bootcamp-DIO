@@ -1,2 +1,3 @@
-# DEV-Bootcamp-DIO
-Atividades desenvolvidas durante o bootcamp Code Girls da DIO
+# Repositório de programas desenvolvidos
+
+> Atividades desenvolvidas durante o bootcamp Code Girls da Digital Inovation One
